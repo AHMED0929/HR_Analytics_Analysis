@@ -4,7 +4,7 @@ A 4-page Power BI dashboard analyzing the full employee lifecycle — hiring,
 performance, engagement, compensation, and attrition — for a fictional SaaS
 company, built on a deliberately messy, relationally-linked 6-table dataset.
 
-![Workforce Overview](images/page1_workforce_overview.png)
+![Workforce Overview](images/Workforce_overview.png)
 
 ## Overview
 
