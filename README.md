@@ -47,12 +47,7 @@ candidates processed through the recruitment funnel.
 
 ## Key Finding
 
-The data tells one connected story, not four separate ones: **Customer
-Success has both the highest attrition rate (47.1%, more than double
-Executive's 21.1%) and the lowest engagement score (2.9) of any department**
-— and company-wide, **81.2% of attrition is voluntary**. People aren't being
-let go; they're choosing to leave, and engagement is the visible warning sign
-before they do.
+The data tells one connected story, not four separate ones: **Customer Success has both the highest attrition rate (47.1%) and the lowest engagement score (2.9) among departments. Combined with the fact that 81.2% of attrition is voluntary, this suggests that employee engagement may be an important area to investigate when addressing voluntary turnover.
 
 A second pattern worth calling out: referral and recruiting-agency hires
 convert at roughly 24%, nearly triple the job board's ~8.5% — a real
