@@ -10,8 +10,8 @@ company, built on a deliberately messy, relationally-linked 6-table dataset.
 
 Nimbus Cloud Technologies is a fictional SaaS company, ~4 years of operating
 history. The dataset was custom-designed (not pulled from Kaggle) to include
-both realistic data quality problems and genuine, discoverable business
-patterns across six related tables: Employees, Departments, Recruitment,
+both realistic data quality problems and realistic, intentionally designed business patterns
+across six related tables: Employees, Departments, Recruitment,
 PerformanceReviews, EngagementSurveys, and CompensationHistory.
 
 **Scale:** 1,742 employees ever hired · 1,173 currently active · 11,448
@@ -47,7 +47,7 @@ candidates processed through the recruitment funnel.
 
 ## Key Finding
 
-The data tells one connected story, not four separate ones: **Customer Success has both the highest attrition rate (47.1%) and the lowest engagement score (2.9) among departments. Combined with the fact that 81.2% of attrition is voluntary, this suggests that employee engagement may be an important area to investigate when addressing voluntary turnover.
+The data tells one connected story, not four separate ones: Customer Success has both the highest attrition rate (47.1%) and the lowest engagement score (2.9) among departments. Combined with the fact that 81.2% of attrition is voluntary, this suggests that employee engagement may be an important area to investigate when addressing voluntary turnover.
 
 A second pattern worth calling out: referral and recruiting-agency hires
 convert at roughly 24%, nearly triple the job board's ~8.5% — a real
